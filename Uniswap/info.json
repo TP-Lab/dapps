@@ -1,0 +1,29 @@
+{
+"name": "Uniswap",
+"website": "https://app.uniswap.org/",
+"description": "Swap, earn, and build on the leading decentralized crypto trading protocol.",
+"explorer": "https://bscscan.com/address/0x3d15807806A2289928582756B0B12d2fD305F103",
+"chains":[
+	    {
+	    	"network": "ethereum",
+			"chain_id": "1"//mainnet
+		},{
+			"network": "ethereum",
+			"chain_id": "10"//Optimism
+		},{
+			"network": "ethereum",
+			"chain_id": "42161"//Arbitrum
+		}
+	],
+"tp_supported":"true",
+"has_referral":"true",
+"audited":"true",
+"contact":[
+	{
+		"discord":"https://discord.com/invite/FCfyBSbCU5"
+	},
+	{
+		"twitter":"https://twitter.com/Uniswap"
+	}
+	]
+}
