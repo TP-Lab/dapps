@@ -1,0 +1,26 @@
+{
+"name": "META GOLD MINER IGO",
+"website": "https://goldminer.mmtgame.com/MiningToEarn_IGO/",
+"description": "META GOLD MINER chose to introduce DAO to support the real-world community and achieve its mission.",
+"explorer": "https://bscscan.com/token/0xeC31Ce856a0dE6Fd3DB8b4543e0c27dC33782F3C",
+"chains":[
+	    {
+	    	"network": "ethereum",
+	                "chain_id": "56"
+		}
+	],
+"tp_supported":"true",
+"has_referral":"true",
+"audited":"true",
+"contact":[
+	{
+		"Telegram":"https://t.me/mmtgame"
+	},
+	{
+		"twitter":"https://twitter.com/mmtgame_com"
+	},
+                {
+                                "Medium": "https://medium.com/@zdmmt111"
+                }
+	]
+}
