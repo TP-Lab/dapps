@@ -1,0 +1,26 @@
+{
+    "name": "NEST Fi",
+    "website": "https://finance.nestprotocol.org/",
+    "description": "NEST Fi is a decentralized financial market, providing futures and options with infinite liquidity.",
+    "explorer": "https://etherscan.io/token/0x04abeda201850ac0124161f037efd70c74ddc74c",
+    "chains":[
+            {
+                "network": "ethereum",
+                "chain_id": "1"
+            },{
+                "network": "BNB",
+                "chain_id": "56"
+            }
+        ],
+    "tp_supported":"true",
+    "has_referral":"true",
+    "audited":"true",
+    "contact":[
+        {
+            "discord":"https://discord.com/invite/nestprotocol"
+        },
+        {
+            "twitter":"https://twitter.com/NEST_Protocol"
+        }
+        ]
+    }
