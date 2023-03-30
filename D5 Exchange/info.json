@@ -1,0 +1,23 @@
+{
+"name": "D5 Exchange",
+"website": "https://trade.d5.xyz/",
+"description": "D5 is the first fully on-chain aggregator developed on Gridex Protocol and aggregates Order Books and AMMs, providing a revolutionary on-chain trading experience.",
+"explorer": "We don't have utility token",
+"chains":[
+	    {
+			"network": "ethereum",
+			"chain_id": "42161"//Arbitrum
+		}
+	],
+"tp_supported":"true",
+"has_referral":"true",
+"audited":"true",
+"contact":[
+	{
+		"discord":"https://discord.com/invite/Wcx79YhSq2"
+	},
+	{
+		"twitter":"https://twitter.com/d5exchange"
+	}
+	]
+}
