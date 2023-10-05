@@ -1,0 +1,23 @@
+{
+"name": "OANDA",
+"website": "https://www.oanda-en.com/",
+"description": "Use Internet technology to create fair experience opportunities for everyone.",
+"explorer": "https://bscscan.com/address/0x07AC1C4411d0877B2B7E652d8Bb22e39859688A1",
+"chains":[
+	    {
+	    	"network": "ethereum",
+			"chain_id": "56"//mainnet
+		}
+	],
+"tp_supported":"true",
+"has_referral":"true",
+"audited":"true",
+"contact":[
+	{
+		"facebook":"https://www.facebook.com/OANDAfx/"
+	},
+	{
+		"twitter":"https://twitter.com/Uniswap"
+	}
+	]
+}
