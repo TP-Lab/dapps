@@ -1,0 +1,22 @@
+{
+"name": "Baptswap",
+"website": "https://Baptswap.com",
+"description": "Swap, earn, and scale with the first protocol with Fee-on-transfer support on Aptos",
+"explorer": "https://explorer.aptoslabs.com/account/0x6ee5ff12d9af89de4cb9f127bc4c484d26acda56c03536b5e3792eac94da0a36?network=mainnet",
+"chains":[
+	    {
+	    	"network": "aptos",
+		}
+	],
+"tp_supported":"true",
+"has_referral":"true",
+"audited":"true",
+"contact":[
+	{
+		"discord":"https://t.me/BAPTLabs"
+	},
+	{
+		"twitter":"https://twitter.com/Baptswap"
+	}
+	]
+}
