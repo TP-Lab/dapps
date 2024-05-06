@@ -1,0 +1,23 @@
+{
+"name": "CoinMall",
+"website": "https://wap.coin66.top/#/",
+"description": "Freely exchange USDT and invest in gold bars.",
+"explorer": "https://bscscan.com/address/0xEb46f8A36494afE89cC8b4A1f095e0f233Dec144",
+"chains":[
+	    {
+	    	"network": "ethereum",
+			"chain_id": "56"//BSC
+		},
+        {
+        	"network": "TRX"
+        }
+	],
+"tp_supported":"true",
+"has_referral":"true",
+"audited":"false",
+"contact":[
+	{
+		"Telegram":"@joshuafog"
+	}
+	]
+}
