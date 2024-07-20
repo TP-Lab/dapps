@@ -1,0 +1,75 @@
+{
+	"name": "OGP Bulk Sender",
+	"website": "https://offgridplatform.com/apps/bulk-sender",
+	"description": "Transfer multiple tokens and NFTs to numerous addresses in one transaction.",
+	"explorer": "https://etherscan.io/address/0x108cE54a9169a9d30a57d4042C2F6d327E19CBF5",
+	"chains": [
+		{
+			"network": "ethereum",
+			"chain_id": "1"
+		},
+		{
+			"network": "ethereum",
+			"chain_id": "10"
+		},
+		{
+			"network": "ethereum",
+			"chain_id": "42161"
+		},
+		{
+			"network": "bsc",
+			"chain_id": "56"
+		},
+		{
+			"network": "polygon",
+			"chain_id": "137"
+		},
+		{
+			"network": "avalanche",
+			"chain_id": "43114"
+		},
+		{
+			"network": "moonbeam",
+			"chain_id": "1284"
+		},
+		{
+			"network": "evmos",
+			"chain_id": "9001"
+		},
+		{
+			"network": "fantom",
+			"chain_id": "250"
+		},
+		{
+			"network": "celo",
+			"chain_id": "42220"
+		},
+		{
+			"network": "dogechain",
+			"chain_id": "2000"
+		},
+		{
+			"network": "songbird",
+			"chain_id": "19"
+		},
+		{
+			"network": "okc",
+			"chain_id": "66"
+		},
+		{
+			"network": "base",
+			"chain_id": "8453"
+		}
+	],
+	"tp_supported": "true",
+	"has_referral": "false",
+	"audited": "false",
+	"contact": [
+		{
+			"discord": "https://discord.gg/9YJeHyd4Uv"
+		},
+		{
+			"twitter": "https://twitter.com/OffGridPlatform"
+		}
+	]
+}
