@@ -1,0 +1,23 @@
+{
+"name": "AIA Swap",
+"website": "https://aiaswap.com/#/",
+"description": "AIA Chain decentralized exchange",
+"explorer": "https://aiascan.com/",
+"chains":[
+	    {
+	    	"network": "ethereum",
+			"chain_id": "1319"
+		}
+	],
+"tp_supported":"true",
+"has_referral":"true",
+"audited":"true",
+"contact":[
+	{
+		"email":"yangrui631118@gmail.com"
+	},
+	{
+		"telegram":"@jerryffbb"
+	}
+	]
+}
