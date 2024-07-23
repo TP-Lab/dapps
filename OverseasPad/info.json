@@ -1,0 +1,23 @@
+{
+"name": "Overseas Pad",
+"website": "https://token.aiatool.online/",
+"description": "AIA chain one-stop launch platform",
+"explorer": "https://aiascan.com/",
+"chains":[
+	    {
+	    	"network": "ethereum",
+			"chain_id": "1319"
+		}
+	],
+"tp_supported":"true",
+"has_referral":"true",
+"audited":"true",
+"contact":[
+	{
+		"email":"yangrui631118@gmail.com"
+	},
+	{
+		"telegram":"@jerryffbb"
+	}
+	]
+}
