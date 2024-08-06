@@ -1,0 +1,26 @@
+{
+"name": "Lucky Guess",
+"website": "https://h5.luckyguess.xyz/#/",
+"description": "Lucky Guess is an innovative game launch platform base on blockchain.",
+"explorer": "https://basescan.org/",
+"chains":[
+	    {
+	    	"network": "base",
+			"chain_id": "8453"
+		}
+	],
+"tp_supported":"true",
+"has_referral":"false",
+"audited":"false",
+"contact":[
+	{
+		"telegram":"https://t.me/luckyguessclub"
+	},
+	{
+		"twitter":"https://x.com/luckyguesshash"
+	},
+	{
+		"email":"info@luckyguess.xyz"
+	}
+	]
+}
