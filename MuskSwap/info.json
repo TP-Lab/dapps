@@ -1,0 +1,23 @@
+{
+    "name": "MuskSwap",
+    "website": "https://muskswap.club",
+    "description": "Muskswap is a decentralized exchange in the BSC/ETH chain ecosystem",
+    "explorer": "https://bscscan.com/address/0xc0e6EEF914d7BB0D4e6F72bc64ed69383fDb06E4",
+    "chains":[
+            {
+                "network": "ethereum",
+                "chain_id": "1"
+            },{
+                "network": "ethereum",
+                "chain_id": "56"
+            }
+        ],
+    "tp_supported":"true",
+    "has_referral":"true",
+    "audited":"true",
+    "contact":[
+            {
+                "telegram":"https://t.me/X_iobtc"
+            }
+        ]
+    }
