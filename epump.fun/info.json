@@ -1,0 +1,20 @@
+{
+"name": "epump.fun",
+"website": "https://epump.fun/",
+"description": "Best fair launch platform for MEME coins on ETH. EPUMP.FUN helps every community to quickly start coins in a FairMint manner – Fair, Secure, Fun!",
+"explorer": "https://ethscan.io/address/0x3d904547C301e6a89f1c63f3Ba35dCbFd28222f7",
+"chains":[
+	    {
+	    	"network": "ethereum",
+			"chain_id": "1"
+		}
+	],
+"tp_supported":"true",
+"has_referral":"true",
+"audited":"true",
+"contact":[
+	{
+		"twitter":"https://x.com/epumpfun"
+	}
+	]
+}
