@@ -1,0 +1,23 @@
+{
+"name": "COIN2047",
+"website": "https://coin2047.com/",
+"description": "RWA Digital Economy Innovation Program",
+"explorer": "https://bscscan.com/address/0x71754848976a47cb7000B84A3bf4F827cEF13d42",
+"chains":[
+	    {
+	    	"network": "BNB Smart Chain Mainnet",
+			"chain_id": "56"//mainnet
+		}
+	],
+"tp_supported":"true",
+"has_referral":"true",
+"audited":"true",
+"contact":[
+	{
+		"discord":""
+	},
+	{
+		"twitter":""
+	}
+	]
+}
